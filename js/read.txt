@@ -1,0 +1,1 @@
+Here  all the validation and all the client side scripting is placed.
